@@ -3,8 +3,8 @@ source ~/.bash/paths
 source ~/.bash/completion
 source ~/.bash/config
 
-if [ -f ~/.bash/local ]; then
-  source ~/.bash/local
+if [ -f ~/.bash_local ]; then
+  source ~/.bash_local
 fi
 
 # Load RVM into a shell session *as a function*
