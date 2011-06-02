@@ -1,0 +1,11 @@
+# git aliases
+alias aa='git add -A'
+alias ci='git commit'
+alias co='git checkout'
+
+# ruby aliases
+alias be='bundle exec'
+
+# shell aliases
+alias ls='ls -p --color=auto'
+alias dir='ls -pal --color=auto'
